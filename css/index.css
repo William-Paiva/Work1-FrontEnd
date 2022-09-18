@@ -1,0 +1,54 @@
+.mt-8{
+    margin-top: 8em;
+}
+.banner{
+    width: 100%;
+    position: relative;
+}
+.text-format{
+    text-indent: 1.5em;
+    text-align: justify;
+    font-size: 25px;
+    color:#000;
+}
+.h2-format{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #101674;
+}
+.span-color{
+    font-weight:bold;
+    font-style: italic;
+    color: #101674;
+}
+.fazul{
+    z-index: 0;
+    position: fixed;
+    display: block;
+    height: 120px;
+    width: 1436px;
+}
+table {
+    width: 90%;
+    text-align: left;
+    margin: 10px auto;
+    font-size: 15px;
+    background-color: rgb(172, 233, 252);
+}
+th, td {
+    width: 19%;
+    height: 20px;
+    text-align: center;
+}
+#th1{
+    text-align: left;
+}
+#video1{
+    text-align: center;
+    max-width: 1436px;
+    height: 490px;
+    position: relative;
+    margin: 5px auto;   
+}

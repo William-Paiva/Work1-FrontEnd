@@ -1,0 +1,39 @@
+.mt-8{
+    margin-top: 8em;
+}
+.banner{
+    width: 100%;
+    position: relative;
+    border-bottom: 25px solid blue;   
+}
+.text-format{
+    text-indent: 1.5em;
+    text-align: justify;
+    font-size: 25px;
+    color:#000;
+}
+.h2-format{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #101674;
+}
+.asks{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+.span-color{
+    font-weight:bold;
+    font-style: italic;
+    color: #101674;
+}
+#video1{
+    text-align: center;
+    
+    max-width: 1436px;
+    height: 490px;
+    position: relative;
+    margin: 5px auto;   
+}

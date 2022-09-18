@@ -1,0 +1,51 @@
+.mt-9{
+    margin-top: 9em;
+}
+.text-format{
+    text-indent: 1.5em;
+    text-align: justify;
+    font-size: 25px;
+    color:#000;
+}
+.h2-format{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #101674;
+    text-align: center;
+}
+#text-left{
+    text-align: left;
+}
+#i-1{
+    border: 20px solid black;
+    width: 95%;
+    margin-left: 15px;
+}
+#i-2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 27%;
+}
+.span-color{
+    font-weight:bold;
+    font-style: italic;
+    color: #101674;
+}
+.container form{
+    text-align: center;
+    margin: 10px auto;
+}
+.input-format{
+    width: 45%;
+    background-color: rgb(172, 233, 252);
+    border: none;
+}
+.div-icons-copy{
+    z-index: 1000;
+    position: fixed;
+    right: 10px;
+    width: 30px;
+    margin-top: 0; 
+}

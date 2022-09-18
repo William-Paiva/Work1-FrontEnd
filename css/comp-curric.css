@@ -1,0 +1,112 @@
+.mt-9{
+    margin-top: 9em;
+}
+table {
+    width: 60%;
+    border: none;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+}
+td:first-child{
+    text-align: left;
+}
+.tr-color {
+    background-color: rgb(172, 233, 252);
+}
+
+th, td {
+    height: 30px;
+}
+th{
+    font-size: 23px;
+    color: #101674;
+    font-style: italic;
+}
+#th1{
+    text-align: left;
+}
+.text-format{
+    text-indent: 1.5em;
+    text-align: center;
+    font-size: 25px;
+    color:#000;
+}
+.h2-format{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium';
+    color: #101674;
+    text-align: center;
+}
+.container-download{
+    text-align: center;
+}
+#download-icon{
+    margin-left: 5px;
+    width: 40px;
+}
+.div-icons-copy{
+    z-index: 1000;
+    position: fixed;
+    right: 10px;
+    width: 30px;
+    margin-top: 0; 
+}
+.mt-9{
+    margin-top: 9em;
+}
+table {
+    width: 60%;
+    border: none;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+}
+td:first-child{
+    text-align: left;
+}
+.tr-color {
+    background-color: rgb(172, 233, 252);
+}
+th, td {
+    height: 30px;
+}
+th{
+    font-size: 23px;
+    color: #101674;
+    font-style: italic;
+}
+#th1{
+    text-align: left;
+}
+.text-format{
+    text-indent: 1.5em;
+    text-align: justify;
+    text-align: center;
+    font-size: 25px;
+    color:#000;
+}
+.h2-format{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium';
+    color: #101674;
+    text-align: center;
+}
+.container-download{
+    text-align: center;
+}
+#download-icon{
+    margin-left: 5px;
+    width: 40px;
+}
+.div-icons-copy{
+    z-index: 1000;
+    position: fixed;
+    right: 10px;
+    width: 30px;
+    margin-top: 0; 
+}
